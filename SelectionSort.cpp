@@ -42,7 +42,7 @@ void printArray(int A[], int n) {
     cout << endl;
 }
 
-// main function
+// Main function
 int main() {
     int A[] = {34, 56, 23, 65, -10, 19, -22, 53, 12, 44};
     // Size or Length of the array
