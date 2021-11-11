@@ -16,7 +16,7 @@ void selectionSort(int A[], int n) {
     // Declaring Variables
     int i, j, min_k;
 
-    // consecutive moving boundary
+    // Consecutive moving boundary
     for (i = 0; i < n-1; i++) {
 
         // To find the minimum value element in the array
